@@ -1,0 +1,10 @@
+.DS_Store
+npm-debug.log
+
+# package directories
+node_modules
+jspm_packages
+bower_components
+
+# Serverless directories
+.serverless
